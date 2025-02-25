@@ -2,10 +2,12 @@
 A set of tools for making eurorack power cables a little easier. Consisting of a Crimp Tool Stand, a fixed length Crimp Tool Nest, and a Cable Splitter
 
 ## Crimp Tool Stand
+![Poorly edited picture of the crimp tool in its stand on my coffee table](/assets/images/crimp tool stand.jpg)
+
 The crimp tool stand is designed to be used with the Pro's Kit 6PK-214 IDC crimp tool, and is a stand to hold the tool vertically on the table while aranging the connector and ribbon cable. It clips into place with a little bit of force, and generally lives on the tool. There are three versions, the original short one, the long one which is much more balanced, and the tall one, which I've yet to print or use. 
 
 ## Crimp Tool Nest
-This is a nest for use with the same tool, Pro's Kit 6PK-214, to help space multiple 10 position ends on the end of a single cable. This is particularly useful if you have multiple 1U modules in a 3U row, such as the case with Bib, Buzzrito, and Blueberry. This particular model is made for a 95mm pitch between end cables, and can be easily digitally cut and rejoined for other lengths.
+This is a nest for use with the same tool, Pro's Kit 6PK-214, to help space multiple 10 position ends on the end of a single cable. This is particularly useful if you have multiple 1U modules in a 3U row, such as the case with Bib, Buzzrito, and Blueberry. This particular model is made for a 100mm pitch between end cables, and can be easily digitally cut and rejoined for other lengths.
 
 ## Cable Splitter
 ### Use at your own risk. I think the Cable Splitter is great, but knives are sharp and dangerous, and never force a knife, unless you want to lose blood.
